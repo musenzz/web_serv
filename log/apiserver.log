@@ -1,0 +1,62 @@
+{"level":"INFO","timestamp":"2019-08-15 11:02:51.545","file":"web_serv/main.go:45","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 11:02:51.545","file":"web_serv/main.go:42","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 11:26:50.671","file":"config/config.go:70","msg":"Config file changed: /home/d/go/src/web_serv/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-08-15 11:27:07.532","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 11:27:07.533","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 11:43:25.255","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 11:43:25.255","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 11:59:32.621","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 11:59:32.622","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 12:06:17.871","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 12:06:17.871","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 12:07:31.305","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 12:07:31.305","file":"web_serv/main.go:63","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2019-08-15 12:07:32.306","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 15:06:51.150","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 15:06:51.151","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 15:10:34.380","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 15:10:34.381","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 15:22:20.194","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 15:22:20.195","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-08-15 15:22:22.191","file":"user/create.go:23","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2019-08-15 15:22:22.192","file":"user/create.go:26","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-08-15 15:22:22.192","file":"user/create.go:30","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2019-08-15 15:37:29.585","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 15:37:29.585","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 15:37:34.192","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2019-08-15 15:37:34.192","file":"user/create.go:23","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-08-15 15:37:34.192","file":"user/create.go:26","msg":"Header Content-Type: multipart/form-data; boundary=----WebKitFormBoundarypxAchMbQVj0D5M80"}
+{"level":"DEBUG","timestamp":"2019-08-15 15:37:34.192","file":"user/create.go:28","msg":"username is: [], password is []"}
+{"level":"INFO","timestamp":"2019-08-15 15:38:06.817","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-15 15:38:06.820","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-08-15 15:38:42.628","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2019-08-15 15:38:55.500","file":"user/create.go:23","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-08-15 15:38:59.028","file":"user/create.go:26","msg":"Header Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryg47S0RMl0bu8Trek"}
+{"level":"DEBUG","timestamp":"2019-08-15 15:39:04.662","file":"user/create.go:28","msg":"username is: [], password is []"}
+{"level":"INFO","timestamp":"2019-08-15 15:39:56.518","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2019-08-15 15:39:57.675","file":"user/create.go:23","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-08-15 15:39:57.676","file":"user/create.go:26","msg":"Header Content-Type: application/x-www-form-urlencoded"}
+{"level":"DEBUG","timestamp":"2019-08-15 15:39:57.676","file":"user/create.go:28","msg":"username is: [], password is []"}
+{"level":"INFO","timestamp":"2019-08-15 15:40:21.373","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2019-08-15 15:40:24.963","file":"user/create.go:23","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-08-15 15:40:24.963","file":"user/create.go:26","msg":"Header Content-Type: application/x-www-form-urlencoded"}
+{"level":"DEBUG","timestamp":"2019-08-15 15:40:24.963","file":"user/create.go:28","msg":"username is: [], password is []"}
+{"level":"INFO","timestamp":"2019-08-15 15:40:50.969","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2019-08-15 15:40:54.732","file":"user/create.go:23","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-08-15 15:40:54.732","file":"user/create.go:26","msg":"Header Content-Type: application/x-www-form-urlencoded"}
+{"level":"DEBUG","timestamp":"2019-08-15 15:40:54.733","file":"user/create.go:28","msg":"username is: [], password is []"}
+{"level":"INFO","timestamp":"2019-08-15 15:41:07.035","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2019-08-15 15:41:07.578","file":"user/create.go:23","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-08-15 15:41:07.579","file":"user/create.go:26","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-08-15 15:41:07.579","file":"user/create.go:28","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-08-15 15:41:18.930","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2019-08-15 15:41:22.033","file":"user/create.go:23","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-08-15 15:41:24.573","file":"user/create.go:26","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-08-15 15:41:52.540","file":"user/create.go:28","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2019-08-15 15:42:25.359","file":"user/create.go:20","msg":"URL username: "}
+{"level":"INFO","timestamp":"2019-08-15 15:42:26.556","file":"user/create.go:23","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2019-08-15 15:42:27.712","file":"user/create.go:26","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-08-15 15:42:28.672","file":"user/create.go:28","msg":"username is: [admin], password is [gggg]"}
+{"level":"INFO","timestamp":"2019-08-27 09:27:15.676","file":"web_serv/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2019-08-27 09:27:15.676","file":"web_serv/main.go:63","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2019-08-27 09:27:16.691","file":"web_serv/main.go:49","msg":"The router has been deployed successfully."}
